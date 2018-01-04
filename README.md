@@ -26,6 +26,7 @@ your capabilities will be minimal with this GroupME SmartBot.
 4. Logs of the API calls should be visible in the Heroku App management dashboard.
 
 ## DEMO
+https://youtu.be/JrWyfCmAuTo
 
 *Also see the screenshots folder I am including for convenience.*
 
