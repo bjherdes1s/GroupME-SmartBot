@@ -24,11 +24,11 @@ your capabilities will be minimal with this GroupME SmartBot.
 3. Further action, in my case, is the turning 'on' or 'off' of the TP-Link HS100 smart plug. 
 4. Logs of the API calls should be visible in the Heroku App management dashboard.
 
-##DEMO
+## DEMO
 
 *Also see the screenshots folder I am including for convenience.*
 
-###Make it your own
+### Make it your own
 1. Change any mention of 'YOUR_BOT_ID_HERE' to your GroupME bot's ID. Another option is to make a heroku config environment variable.
 2. Change any mention of 'YOUR_TOKEN_HERE' to your TP-Link access token normally used by the Kasa app. You may have to extract these from a .plist or .db file from the Kasa mobile application.
 3. Change any mention of 'YOUR_DEVICEID_HERE' to your smartplug DeviceID. You can find this in your Kasa app's .db file or with an appropriate cURL POST.
