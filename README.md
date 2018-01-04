@@ -28,7 +28,6 @@ your capabilities will be minimal with this GroupME SmartBot.
 ## DEMO
 https://youtu.be/JrWyfCmAuTo
 
-*Also see the screenshots folder I am including for convenience.*
 
 ### Make it your own
 1. Change any mention of 'YOUR_BOT_ID_HERE' to your GroupME bot's ID. Another option is to make a heroku config environment variable.
