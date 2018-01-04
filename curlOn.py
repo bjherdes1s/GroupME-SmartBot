@@ -1,7 +1,8 @@
-import requests
+#import requests
 
 
 def func1():
+  import requests
   headers = {
     'Content-Type': 'application/json',
   }
