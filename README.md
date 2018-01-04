@@ -37,6 +37,8 @@ your capabilities will be minimal with this GroupME SmartBot.
 *I have included the curlOn.py and curlOff.py scripts, which are just func1() and func2() from the app.py. Having these separately may help in troubleshooting 
 the conversation between heroku hosted app and the TP-Link REST API.*
 
+
+
 Hope you enjoy,
 
 Contact: [brytonjherdes@gmail.com]
