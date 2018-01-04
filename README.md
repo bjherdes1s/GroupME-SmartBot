@@ -16,6 +16,7 @@ your capabilities will be minimal with this GroupME SmartBot.
 2. A GroupME Account
 3. Heroku Tools
 4. TP-Link Kasa App for Mobile
+5. A Backup/Extraction software for copying the .db (sqlite) and .plist (property list) files of your Kasa mobile app to PC for analysis.
 
 ### Purposes of this project
 
