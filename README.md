@@ -1,6 +1,6 @@
-#GroupME SmartBot
+# GroupME SmartBot
 
-##Introduction
+## Introduction
 I set out to become more familiar with JSON, specifically POST requests containing JSON data to the 
 GroupME and TP-Link API's. The GroupME bot was the easy part. There is an online form at [dev.groupme.com/bots] where you can even create
 your own bot easily and assign it to a group of your choosing. From here, your bot can be assigned to a callback server. This callback
@@ -10,7 +10,7 @@ To be used in conjuction with Heroku and deployed with git Heroku tools.
 Without a hosting platform or port forwarding on your own home web server,
 your capabilities will be minimal with a groupme bot. 
 
-###Hardware/Software Necessary
+### Hardware/Software Necessary
 
 1. TP-Link HS100 Smart Plug
 2. A GroupME Account
